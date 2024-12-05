@@ -29,4 +29,4 @@ jobs:
       run: ruff check
 
     - name: Tests
-      run: pytest tests -m "not slow" -r a
+      run: pytest tests -r a
