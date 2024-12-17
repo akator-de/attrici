@@ -13,7 +13,8 @@ from attrici.util import get_data_provenance_metadata, timeit
 @timeit
 def ssa(filename, variable, window_size, subset, output):
     """
-    Perform Singular Spectrum Analysis (SSA) on a specified variable in a NetCDF file and save the results.
+    Perform Singular Spectrum Analysis (SSA) on a specified variable in a NetCDF file
+    and save the results.
 
     Parameters
     ----------
@@ -24,7 +25,7 @@ def ssa(filename, variable, window_size, subset, output):
         The name of the variable within the NetCDF file on which SSA will be performed.
 
     window_size : int
-        The size of the window for the SSA calculation. 
+        The size of the window for the SSA calculation.
 
     subset : int
         TODO
