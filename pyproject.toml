@@ -68,7 +68,7 @@ markers = [
 ]
 
 [project.optional-dependencies]
-dev = ["ruff", "pytest"]
+dev = ["ruff", "pytest", "pdoc"]
 pymc3 = ["numpy<1.25", "pymc3==3.7", "Theano==1.0.5"]
 
 [project.scripts]

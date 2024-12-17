@@ -6,6 +6,16 @@
 
 Docstrings follow the [Numpy convention](https://numpydoc.readthedocs.io/en/latest/format.html).
 
+Documentation is generated with [pdoc](https://pdoc.dev/).
+
+Run the following command to generate the docs locally.
+
+```bash
+PDOC_ALLOW_EXEC=1 pdoc attrici --logo "https://avatars.githubusercontent.com/u/7933269?s=200&v=4" --docformat numpy --math
+```
+
+The `PDOC_ALLOW_EXEC` flag is required for importing and analyzing PyMC3 and its dependencies. 
+Note that PyMC3 works only with Python 3.11 and its dependencies need to be installed separately.
 
 ## Tests
 

@@ -10,6 +10,13 @@ class Distribution:
 
 @dataclass
 class Normal(Distribution):
+    r"""Normal distribution
+
+
+    TODO Include formula? Link to stats.norm?
+    $f(x) = \frac{\exp(-x^2/2)}{\sqrt{2\pi}}$
+    """
+
     mu: Any
     sigma: Any
 
