@@ -3,10 +3,12 @@
 
 ## Documentation
 
+Documentation is generated with [pdoc](https://pdoc.dev/).
+The readme, usage and contribution guides are imported from their Markdown files, see `attrici/__init__.py`.
+
+These are followed by auto-generated API docs for the Attrici modules.
 
 Docstrings follow the [Numpy convention](https://numpydoc.readthedocs.io/en/latest/format.html).
-
-Documentation is generated with [pdoc](https://pdoc.dev/).
 
 Run the following command to generate the docs locally.
 
