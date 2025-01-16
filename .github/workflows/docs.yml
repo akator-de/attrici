@@ -26,7 +26,7 @@ jobs:
 
       - run: pip install .[dev,pymc3]
       
-      - run: PDOC_ALLOW_EXEC=1 pdoc attrici --logo "https://avatars.githubusercontent.com/u/7933269?s=200&v=4" --docformat numpy --math -o docs
+      - run: PDOC_ALLOW_EXEC=1 pdoc ./attrici --logo "https://avatars.githubusercontent.com/u/7933269?s=200&v=4" --docformat numpy --math -o docs
 
       - uses: actions/upload-pages-artifact@v3
         with:
