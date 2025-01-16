@@ -1,4 +1,4 @@
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/akator-de/attrici/ci.yml?style=for-the-badge)](https://github.com/ISI-MIP/attrici/actions) [![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fakator-de%2Fattrici%2Frefs%2Fheads%2Fpdoc%2Fpyproject.toml&style=for-the-badge)](https://github.com/akator-de/attrici/blob/pdoc/pyproject.toml)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/akator-de/attrici/ci.yml?style=for-the-badge)](https://github.com/ISI-MIP/attrici/actions) [![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fakator-de%2Fattrici%2Frefs%2Fheads%2Fpdoc%2Fpyproject.toml&style=for-the-badge)](https://github.com/akator-de/attrici/blob/pdoc/pyproject.toml) [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json&style=for-the-badge)](https://github.com/astral-sh/ruff)
 
 <small>TODO adjust branches above once merged</small>
 
