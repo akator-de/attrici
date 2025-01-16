@@ -1,3 +1,10 @@
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/akator-de/attrici/ci.yml?branch=pdoc&style=for-the-badge)
+
+![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fakator-de%2Fattrici%2Frefs%2Fheads%2Fpdoc%2Fpyproject.toml&
+style=for-the-badge)
+
+<small>TODO adjust branches above once merged</small>
+
 # ATTRICI - counterfactual climate for impact attribution
 
 Code implementing the methods described in the paper [`ATTRICI 1.1 - counterfactual climate for impact attribution`](https://doi.org/10.5194/gmd-14-5269-2021) in Geoscientific Model Development. The code is archived at [ZENODO](https://doi.org/10.5281/zenodo.3828914).
