@@ -1,4 +1,4 @@
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/akator-de/attrici/ci.yml?branch=pdoc&style=for-the-badge) ![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fakator-de%2Fattrici%2Frefs%2Fheads%2Fpdoc%2Fpyproject.toml&style=for-the-badge)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/akator-de/attrici/ci.yml?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FISI-MIP%2Fattrici%2Factions) ![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fakator-de%2Fattrici%2Frefs%2Fheads%2Fpdoc%2Fpyproject.toml&style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fakator-de%2Fattrici%2Fblob%2Fpdoc%2Fpyproject.toml)
 
 <small>TODO adjust branches above once merged</small>
 
